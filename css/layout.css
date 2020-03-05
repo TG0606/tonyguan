@@ -335,12 +335,12 @@ ul#nav li.current a { color: #11ABB0; }
   	-webkit-animation: CSS3 2s ease;
 }
 .JavaScript {
-  	width: 70%;
+  	width: 65%;
   	-moz-animation: JavaScript 2s ease;
   	-webkit-animation: JavaScript 2s ease;
 }
 .React {
-  	width: 70%;
+  	width: 60%;
   	-moz-animation: React 2s ease;
   	-webkit-animation: React 2s ease;
 }
@@ -355,17 +355,17 @@ ul#nav li.current a { color: #11ABB0; }
   	-webkit-animation: APIs 2s ease;
 }
 .rubyOnRails {
-  	width: 65%;
+  	width: 55%;
   	-moz-animation: rubyOnRails 2s ease;
   	-webkit-animation: rubyOnRails 2s ease;
 }
 .SQL {
-  	width: 65%;
+  	width: 55%;
   	-moz-animation: SQL 2s ease;
   	-webkit-animation: SQL 2s ease;
 }
 .Nodejs {
-  	width: 60%;
+  	width: 40%;
   	-moz-animation: Nodejs 2s ease;
   	-webkit-animation: Nodejs 2s ease;
 }
@@ -390,11 +390,11 @@ ul#nav li.current a { color: #11ABB0; }
 }
 @-moz-keyframes JavaScript {
   0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 65%;  }
 }
 @-moz-keyframes React {
   0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 60%;  }
 }
 @-moz-keyframes Git {
   0%   { width: 0px;  }
@@ -406,15 +406,15 @@ ul#nav li.current a { color: #11ABB0; }
 }
 @-moz-keyframes rubyOnRails {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 55%;  }
 }
 @-moz-keyframes SQL {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 55%;  }
 }
 @-moz-keyframes Nodejs {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 40%;  }
 }
 @-moz-keyframes MongoDB {
   0%   { width: 0px;  }
@@ -435,11 +435,11 @@ ul#nav li.current a { color: #11ABB0; }
 }
 @-webkit-keyframes JavaScript {
   0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 65%;  }
 }
 @-webkit-keyframes React {
   0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 60%;  }
 }
 @-webkit-keyframes Git {
   0%   { width: 0px;  }
@@ -451,15 +451,15 @@ ul#nav li.current a { color: #11ABB0; }
 }
 @-webkit-keyframes rubyOnRails {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 55%;  }
 }
 @-webkit-keyframes SQL {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 55%;  }
 }
 @-webkit-keyframes Nodejs {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 40%;  }
 }
 @-webkit-keyframes MongoDB {
   0%   { width: 0px;  }

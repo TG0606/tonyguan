@@ -325,7 +325,7 @@ ul#nav li.current a { color: #11ABB0; }
 }
 
 .HTML5 {
-  	width: 85%;
+  	width: 90%;
   	-moz-animation: HTML5 2s ease;
   	-webkit-animation: HTML5 2s ease;
 }
@@ -382,7 +382,7 @@ ul#nav li.current a { color: #11ABB0; }
 
 @-moz-keyframes HTML5 {
   0%   { width: 0px;  }
-  100% { width: 85%;  }
+  100% { width: 90%;  }
 }
 @-moz-keyframes CSS3 {
   0%   { width: 0px;  }
@@ -427,7 +427,7 @@ ul#nav li.current a { color: #11ABB0; }
 
 @-webkit-keyframes HTML5 {
   0%   { width: 0px;  }
-  100% { width: 85%;  }
+  100% { width: 90%;  }
 }
 @-webkit-keyframes CSS3 {
   0%   { width: 0px;  }
@@ -577,7 +577,8 @@ ul#nav li.current a { color: #11ABB0; }
 
 /* popup modal */
 .popup-modal {
-	max-width: 550px;
+	max-width: 450px;
+  text-align: center;
 	background: #fff;
 	position: relative;
 	margin: 0 auto;
@@ -1067,3 +1068,20 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #0F9095; }
+
+.scale-with-grid {
+   width: 75%;
+   margin-top: 6vh;
+}
+
+.description-box {
+  text-align: left;
+}
+
+.tyMoviesSource, .moneyManagerSource, .bugTrackSource, .ticTacToeSource {
+  font-size: 10px;
+  line-height:20px;
+}
+#ifStatement {
+  margin-left:2vh;
+}

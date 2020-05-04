@@ -195,8 +195,8 @@ ul#nav li a:hover { color: #ffac41; }
    overflow: hidden;
 }
 
-#about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #11ABB0; }
+#about a, #about a:visited  { color: #ffac41; }
+#about a:hover, #about a:focus { color: #ffac41; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
@@ -235,6 +235,9 @@ ul#nav li a:hover { color: #ffac41; }
 #about .download .button i {
    margin-right: 15px;
    font-size: 20px;
+}
+#email-me:hover {
+  opacity: 0.8;
 }
 
 

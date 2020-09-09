@@ -349,6 +349,11 @@ ul#nav li a:hover { color: #ffac41; }
   	-moz-animation: JavaScript 2s ease;
   	-webkit-animation: JavaScript 2s ease;
 }
+.Bootstrap {
+  	width: 80%;
+  	-moz-animation: Bootstrap 2s ease;
+  	-webkit-animation: Bootstrap 2s ease;
+}
 .React {
   	width: 60%;
   	-moz-animation: React 2s ease;
@@ -402,6 +407,10 @@ ul#nav li a:hover { color: #ffac41; }
   0%   { width: 0px;  }
   100% { width: 65%;  }
 }
+@-moz-keyframes Bootstrap {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
 @-moz-keyframes React {
   0%   { width: 0px;  }
   100% { width: 60%;  }
@@ -446,6 +455,10 @@ ul#nav li a:hover { color: #ffac41; }
 @-webkit-keyframes JavaScript {
   0%   { width: 0px;  }
   100% { width: 65%;  }
+}
+@-webkit-keyframes Bootstrap {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
 }
 @-webkit-keyframes React {
   0%   { width: 0px;  }
